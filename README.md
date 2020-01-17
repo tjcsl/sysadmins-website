@@ -10,10 +10,9 @@ The sysadmins' site is built using React and Gatsby. Markdown files serves as th
 
 1. Start the server
 
-    Navigate into your new site’s directory and start it up.
+    Navigate into the source code folder and start the development server.
 
     ```shell
-    cd my-default-starter/
     gatsby develop
     ```
 
