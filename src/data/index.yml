@@ -4,6 +4,7 @@ summary: |
     TJ Email accounts (@tjhsst.edu), and a student-run and developed project known as the TJ Intranet [ion.tjhsst.edu](https://ion.tjhsst.edu), 
     which is used daily by students and staff and runs the Eighth Period student activity program. 
     Sysadmins manage over 30 servers and 50 student workstations, all powered by GNU/Linux and open source software.
+
 services:
     - name: Ion
       link: https://ion.tjhsst.edu
@@ -23,3 +24,28 @@ services:
           Vel turpis nunc eget lorem dolor sed viverra ipsum nunc. Risus at ultrices mi tempus imperdiet. 
           Sit amet justo donec enim diam vulputate. Arcu non sodales neque sodales ut. Rutrum quisque non tellus orci ac auctor. 
           Rhoncus urna neque viverra justo nec ultrices dui. Scelerisque fermentum dui faucibus in.
+
+members:
+    - name: Theo Ouzhinski
+      year: 2020
+      role: Lead Sysadmin, President, Intranet Lead, Director Lead, Security/Abuse Lead, Web Presence Coordinator, Hardware Coordinator
+    - name: Keegan Lanzillotta
+      year: 2020
+      role: Lead Sysadmin
+    - name: John Beutner
+      year: 2020
+      role: Academic Services Lead, Workstations Lead, Signage Lead, Deputy Ion Lead, Deputy Director Lead, NTP Contact
+    - name: Parthiv Chigurapati
+      year: 2020
+      role: Advanced Computing Hardware Lead
+    - name: Akash Bhave
+      year: 2021
+      role: Website Lead, Ion Team Member
+    - name: Alexander Black
+      year: 2021
+      role: Printing Lead
+    - name: Ryan Kim
+      year: 2021
+      role: Documentation Lead
+
+contact: sysadmins@tjhsst.edu
