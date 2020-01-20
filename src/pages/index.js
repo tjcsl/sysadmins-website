@@ -1,5 +1,5 @@
 import React from 'react';
-import { graphql } from 'gatsby';
+import { Link } from 'gatsby';
 import ReactMarkdown from 'react-markdown';
 
 import Layout from '../components/layout';
@@ -12,8 +12,15 @@ function IndexPage() {
         <Layout>
             <SEO keywords={[`sysadmins`, `home`, `index`, `about`]} title="Home" />
 
-            <section className="p-12 link transition">
-                <ReactMarkdown source={data.summary} />
+            <section className="p-12 transition">
+                <ReactMarkdown className="transition mb-6" source={data.summary} />
+                {data.understudy ? (
+                    <Link to="/understudy">
+                        <a className="inline-block bg-blue text-white p-4 uppercase shadow hover:shadow-lg">
+                            Understudy
+                        </a>
+                    </Link>
+                ) : null}
             </section>
 
             <section className="px-12 my-6">

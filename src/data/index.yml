@@ -25,6 +25,8 @@ services:
           Sit amet justo donec enim diam vulputate. Arcu non sodales neque sodales ut. Rutrum quisque non tellus orci ac auctor. 
           Rhoncus urna neque viverra justo nec ultrices dui. Scelerisque fermentum dui faucibus in.
 
+understudy: true
+
 members:
     - name: Theo Ouzhinski
       year: 2020
