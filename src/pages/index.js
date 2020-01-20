@@ -13,7 +13,7 @@ function IndexPage() {
             <SEO keywords={[`sysadmins`, `home`, `index`, `about`]} title="Home" />
 
             <section className="p-12 transition">
-                <ReactMarkdown className="transition mb-6" source={data.summary} />
+                <ReactMarkdown className="link mb-6" source={data.summary} />
                 {data.understudy ? (
                     <Link to="/understudy">
                         <a className="inline-block bg-blue text-white p-4 uppercase shadow hover:shadow-lg">
