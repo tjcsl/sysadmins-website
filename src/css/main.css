@@ -3,3 +3,17 @@
 @tailwind utilities;
 
 @import './typography.css';
+
+.transition,
+.transition * {
+    transition: all 0.2s ease-in-out;
+    transition-property: color border-color background-color;
+}
+
+.link a {
+    @apply text-gray-700;
+}
+
+.link a:hover {
+    @apply text-blue;
+}

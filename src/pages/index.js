@@ -12,7 +12,7 @@ function IndexPage() {
         <Layout>
             <SEO keywords={[`sysadmins`, `home`, `index`, `about`]} title="Home" />
 
-            <section className="p-12">
+            <section className="p-12 link transition">
                 <ReactMarkdown source={data.summary} />
             </section>
 
@@ -22,7 +22,7 @@ function IndexPage() {
                     {data.services.map(service => (
                         <div className="cursor-pointer w-full md:w-1/3 px-3 mb-6">
                             <a
-                                className="block border-2 hover:border-blue border-gray-300 shadow p-6 h-full"
+                                className="block border-2 hover:border-blue border-gray-300 shadow p-6 h-full transition"
                                 href={service.link}>
                                 <h3 className="font-bold text-2xl mb-3">{service.name}</h3>
                                 <ReactMarkdown source={service.summary} />
@@ -37,7 +37,7 @@ function IndexPage() {
                 <div className="flex flex-wrap -mx-3">
                     {data.members.map(member => (
                         <div className="cursor-pointer w-full md:w-1/4 px-3 mb-6">
-                            <div className="block border-2 hover:border-blue border-gray-300 shadow p-6 h-full">
+                            <div className="block border-2 hover:border-blue border-gray-300 shadow p-6 h-full transition">
                                 <h3 className="font-bold text-2xl mb-3">{member.name}</h3>
                                 <p>{member.role}</p>
                             </div>
