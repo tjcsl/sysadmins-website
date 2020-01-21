@@ -9,7 +9,7 @@ import data from '../data/understudy.yml';
 function UnderstudyPage() {
     return (
         <Layout>
-            <SEO keywords={[`sysadmins`, `understudy`, `join`]} title="Home" />
+            <SEO keywords={[`sysadmins`, `understudy`, `join`]} title="Understudy" />
 
             <section className="p-12 transition">
                 <h1 className="text-3xl uppercase mb-6">Understudy</h1>

@@ -9,13 +9,13 @@ module.exports = {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: `gatsby-starter-tailwind`,
-                short_name: `starter`,
+                name: `tjCSL Sysadmins`,
+                short_name: `Sysadmins`,
                 start_url: `/`,
-                background_color: `#ffffff`,
-                theme_color: `#4dc0b5`,
+                background_color: `#f2f7ff`,
+                theme_color: `#0048AB`,
                 display: `minimal-ui`,
-                icon: `src/images/tailwind-icon.png`
+                icon: `src/images/favicon.png`
             }
         },
         `gatsby-plugin-postcss`,
