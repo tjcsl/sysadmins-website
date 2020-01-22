@@ -1,53 +1,64 @@
 summary: |
-    The Student Systems Administrators are a group of students who maintain computer equipment in the TJ Computer Systems Lab. 
+    The Student Systems Administrators are a group of students who maintain computer equipment and networked services in TJ's Computer Systems Lab. 
     We run services which power the entire school's operations, including the TJ Website [tjhsst.edu](https://tjhsst.edu), 
-    TJ Email accounts (@tjhsst.edu), and a student-run and developed project known as the TJ Intranet [ion.tjhsst.edu](https://ion.tjhsst.edu), 
+    TJ Email accounts (@tjhsst.edu), and a student-run and developed project known as the TJ Intranet ([ion.tjhsst.edu](https://ion.tjhsst.edu)), 
     which is used daily by students and staff and runs the Eighth Period student activity program. 
-    Sysadmins manage over 30 servers and 50 student workstations, all powered by GNU/Linux and open source software.
+    Sysadmins manage over 30 physical servers and 60 student workstations, all powered by [GNU/Linux](https://en.wikipedia.org/wiki/Linux) and open source software.
 
 services:
     - name: Ion
       link: https://ion.tjhsst.edu
       summary: |
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-          Orci eu lobortis elementum nibh tellus molestie. Ligula ullamcorper malesuada proin libero nunc consequat. 
-          Est ante in nibh mauris cursus mattis molestie a. Venenatis tellus in metus vulputate eu scelerisque felis. 
-          Vel turpis nunc eget lorem dolor sed viverra ipsum nunc. Risus at ultrices mi tempus imperdiet. 
-          Sit amet justo donec enim diam vulputate. Arcu non sodales neque sodales ut. Rutrum quisque non tellus orci ac auctor. 
-          Rhoncus urna neque viverra justo nec ultrices dui. Scelerisque fermentum dui faucibus in.
+          The TJHSST Intranet (Ion) application allows students, teachers, and staff at TJHSST to access student information, manage activity signups for TJ's Eighth Period program, and view information on news and events.
     - name: Director
-      link: https://Director.tjhsst.edu
+      link: https://director.tjhsst.edu
       summary: |
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-          Orci eu lobortis elementum nibh tellus molestie. Ligula ullamcorper malesuada proin libero nunc consequat. 
-          Est ante in nibh mauris cursus mattis molestie a. Venenatis tellus in metus vulputate eu scelerisque felis. 
-          Vel turpis nunc eget lorem dolor sed viverra ipsum nunc. Risus at ultrices mi tempus imperdiet. 
-          Sit amet justo donec enim diam vulputate. Arcu non sodales neque sodales ut. Rutrum quisque non tellus orci ac auctor. 
-          Rhoncus urna neque viverra justo nec ultrices dui. Scelerisque fermentum dui faucibus in.
+          Director is the website management platform for TJHSST. It gives students the ability to host and manage websites with an easy-to-use interface.
+          Originally designed as a senior research project in 2017, Director now is the home for over 2,000 club, academic, and personal sites.
+    - name: Student Webmail
+      link: https://webmail.tjhsst.edu
+      summary: |
+          The Student Webmail system grants students access to a `@tjhsst.edu` email account. Using Postfix, Dovecot, and Roundcube, we are able to
+          give TJ students their own portal to the world.
 
 understudy: true
 
 members:
     - name: Theo Ouzhinski
       year: 2020
-      role: Lead Sysadmin, President, Intranet Lead, Director Lead, Security/Abuse Lead, Web Presence Coordinator, Hardware Coordinator
+      role: Lead Sysadmin, President, Infrastructure Lead, Director Lead, Security/Abuse Lead, Web Presence Coordinator, Hardware Coordinator
     - name: Keegan Lanzillotta
       year: 2020
-      role: Lead Sysadmin
+      role: Lead Sysadmin, WWW Lead
     - name: John Beutner
       year: 2020
-      role: Academic Services Lead, Workstations Lead, Signage Lead, Deputy Ion Lead, Deputy Director Lead, NTP Contact
+      role: Deputy Infrastructure Lead, Academic Services Lead, Workstations Lead, Signage Lead, Intranet Lead, Deputy Director Lead, NTP Contact
     - name: Parthiv Chigurapati
       year: 2020
       role: Advanced Computing Hardware Lead
     - name: Akash Bhave
       year: 2021
-      role: Website Lead, Ion Team Member
+      role: Ion Team Member (Frontend)
     - name: Alexander Black
       year: 2021
-      role: Printing Lead
+      role: Cluster Co-Lead, Printing Lead
+    - name: Anup Bagali
+      year: 2021
+      role: Junior Backend Admin
     - name: Ryan Kim
       year: 2021
       role: Documentation Lead
+    - name: Shreepa Parthaje
+      year: 2021
+      role: Cluster Co-Lead
+    - name: Vikram Raghu
+      year: 2021
+      role: Ion Team Member, Website Team Member
+    - name: Lauren Delwiche
+      year: 2022
+      role: Ion Team Member, Website Team Member
+    - name: Shreyas Mayya
+      year: 2022
+      role: Monitoring Lead
 
 contact: sysadmins@tjhsst.edu
