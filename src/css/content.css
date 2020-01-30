@@ -1,0 +1,46 @@
+.content p,
+.content span,
+.content h5,
+.content h6,
+.content ul,
+.content ol,
+.content table {
+    @apply mb-2 leading-relaxed;
+}
+.content h1 {
+    @apply text-4xl;
+    @apply mb-2 mt-4;
+}
+.content h2 {
+    @apply text-3xl mt-4;
+}
+.content h3 {
+    @apply text-2xl mt-2;
+}
+.content h4 {
+    @apply text-xl mt-2;
+}
+.content ul,
+.content ol {
+    @apply ml-4 list-inside inline-block;
+}
+.content ul {
+    @apply list-disc;
+}
+.content ol {
+    @apply list-decimal;
+}
+.content li > * {
+    @apply inline;
+}
+.content img {
+    @apply my-8;
+}
+
+.content img,
+.content code.hljs {
+    @apply shadow;
+}
+.content blockquote {
+    @apply pl-8 p-4 my-4 bg-gray-200;
+}

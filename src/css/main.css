@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 @import './typography.css';
+@import './content.css';
 
 .transition,
 .transition * {

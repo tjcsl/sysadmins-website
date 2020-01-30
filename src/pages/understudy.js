@@ -13,7 +13,7 @@ function UnderstudyPage() {
 
             <section className="p-12 transition">
                 <h1 className="text-3xl uppercase mb-6">Understudy</h1>
-                <ReactMarkdown className="transition mb-6" source={data.body} />
+                <ReactMarkdown className="transition mb-6 content" source={data.body} />
             </section>
         </Layout>
     );
