@@ -20,6 +20,25 @@ services:
       summary: |
           The Student Webmail system grants students access to a `@tjhsst.edu` email account. Using Postfix, Dovecot, and Roundcube, we are able to
           give TJ students their own portal to the world.
+    - name: Library Proxy
+      summary: |
+          The Library Proxy authorizes TJ community members to access academic resources, primarily library databases, from off-campus.
+    - name: Workstations
+      summary: |
+          The over 60 Linux workstations within CSL classrooms offer students the capability to work within a Linux environment.
+    - name: Cluster
+      summary: |
+          The 2 TJHSST High Performance Computing clusters provide CPU & GPU computing power to support students' research & academic endeavours.
+    - name: Signage
+      summary: |
+          With 11 TV monitors all around the school, we offer students quick access to schedules, maps, and announcements.
+    - name: Remote Access Servers
+      summary:
+          The Remote Access Servers offer students remote access to Lab computing resources from off-campus.
+    - name: Othello Tournament
+      link: https://othello.tjhsst.edu
+      summary: |
+          The Othello Tournament server provides student a platform to run Othello code against each other during TJHSST Artificial Intelligence classes.
 
 understudy: true
 
