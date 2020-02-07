@@ -33,8 +33,7 @@ services:
       summary: |
           With 11 TV monitors all around the school, we offer students quick access to schedules, maps, and announcements.
     - name: Remote Access Servers
-      summary:
-          The Remote Access Servers offer students remote access to Lab computing resources from off-campus.
+      summary: The Remote Access Servers offer students remote access to Lab computing resources from off-campus.
     - name: Othello Tournament
       link: https://othello.tjhsst.edu
       summary: |
@@ -80,4 +79,16 @@ members:
       year: 2022
       role: Monitoring Lead
 
-contact: sysadmins@tjhsst.edu
+contact:
+    - title: General Correspondence
+      email: sysadmins@tjhsst.edu
+    - title: Intranet
+      email: intranet@tjhsst.edu
+    - title: Director
+      email: director@tjhsst.edu
+    - title: Security
+      email: security@tjhsst.edu
+    - title: Othello
+      email: othello@tjhsst.edu
+    - title: Understudy
+      email: understudy@tjhsst.edu
