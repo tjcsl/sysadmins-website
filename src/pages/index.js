@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'gatsby';
 import ReactMarkdown from 'react-markdown';
+import Obfuscate from 'react-obfuscate';
 
 import Layout from '../components/layout';
 import SEO from '../components/seo';
@@ -66,7 +67,9 @@ function IndexPage() {
                         {data.contact.map(contactGroup => (
                             <tr>
                                 <td className="border border-gray-500 px-4 py-2">{contactGroup.title}</td>
-                                <td className="border border-gray-500 px-4 py-2">{contactGroup.email}</td>
+                                <td className="border border-gray-500 px-4 py-2">
+                                    <Obfuscate email={contactGroup.email} />
+                                </td>
                             </tr>
                         ))}
                     </tbody>
