@@ -5,7 +5,7 @@
 .content ul,
 .content ol,
 .content table {
-    @apply mb-2 leading-relaxed;
+    @apply mb-2 mt-1 leading-relaxed;
 }
 .content h1 {
     @apply text-4xl;
