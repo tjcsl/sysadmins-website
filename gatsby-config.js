@@ -2,7 +2,8 @@ module.exports = {
     siteMetadata: {
         title: `tjCSL Sysadmins`,
         description: `Official website of Thomas Jefferson High School for Science and Technology's systems administrator team.`,
-        author: `tjCSL`
+        author: `tjCSL`,
+        siteUrl: `https://sysadmins.tjhsst.edu`
     },
     plugins: [
         `gatsby-plugin-react-helmet`,
@@ -25,6 +26,8 @@ module.exports = {
             options: {
                 path: `./src/data`
             }
-        }
+        },
+        'gatsby-plugin-sitemap',
+        'gatsby-plugin-robots-txt'
     ]
 };
