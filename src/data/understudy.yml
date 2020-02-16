@@ -95,7 +95,7 @@ body: |
       - **Performance** - making our code/systems faster & more efficient
       - **Documentation** - writing down how our infrastructure is set up to pass down to future generations of Sysadmins
       - **Technical Support** - responding to in-person and electronic questions from the broader TJ community
-      - **Hardware Maintenance** - building, configuring, & constantly hardware to support the Lab
+      - **Hardware Maintenance** - building, configuring, & constantly maintaining hardware to support the Lab
       - **Infrastructure Design** - designing good architectures for scalable, efficient, and effective systems & software
       - **Project Management** - managing & allocating tasks within the team
 
