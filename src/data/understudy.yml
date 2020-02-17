@@ -73,7 +73,7 @@ body: |
     - Problem Solving - Problems can pop up in everything we do and are sometimes highly unusual. Our capacity to solve them
     - Debugging skills - Whether it is debugging a vexing code error or performance issue, being able to effectively debug issues is quite important to what we do.
     - Linux - Installing, running, and configuring a Linux distro (especially a DYI distribution like Arch Linux) teaches you quite a lot.
-    - Scripting - If you are running Linux, you might.
+    - Scripting - If you are doing something repeatably, write a Bash or Python script to automate it. These tiny scripts can teach you a lot over a long period of time.
     - Programming - Being able to write good, clean code is at the heart of what we do. We mostly use Python, but knowing one language, like Java, C, or C++, makes learning others much easier.
     - Git - We use Git _a lot_, so it is nice to get comfortable working with it regularly, with an especial focus on effective branch rebasing. One good way to learn is to start using it to store your code from school classes.
     - Computer Basics - It is very useful to know the basics of computers, like what RAM, CPUs, operating systems, Windows, Linux, and Mac OS is.
