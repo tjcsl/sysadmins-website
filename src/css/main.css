@@ -12,9 +12,9 @@
 }
 
 .link a {
-    @apply text-gray-700;
+    @apply text-blue;
 }
 
 .link a:hover {
-    @apply text-blue;
+    @apply text-gray-700;
 }
