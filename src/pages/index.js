@@ -46,7 +46,8 @@ function IndexPage() {
                     {data.members.map(member => (
                         <div className="cursor-pointer w-full md:w-1/4 px-3 mb-6">
                             <div className="block border-2 hover:border-blue border-gray-300 shadow p-6 h-full transition">
-                                <h3 className="font-bold text-2xl mb-3">{member.name}</h3>
+                                <h3 className="font-bold text-2xl mb-1">{member.name}</h3>
+                                <h4 className="italic mb-3 text-gray-700">({member.year})</h4>
                                 <p>{member.role}</p>
                             </div>
                         </div>
