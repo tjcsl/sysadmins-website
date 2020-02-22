@@ -100,7 +100,7 @@ body: |
     To reiterate, _we do not at all expect close to complete technical knowledge in order to become an Understudy_. The current senior Sysadmins had nowhere as much experience as they do now. We do expect you, however, to be extremely willing to learn and experiment on your own, since the skills we use are not something that can be learned via a math formula, textbook, or lecture. Instead, they come from practice, experimentation, research, and dedication, and the Sysadmin program provides an opportunity to do just that.
 
     Based on our experiences, having a strong foundation in these areas is quite important:
-    - Problem Solving - Problems can pop up in everything we do and are sometimes highly unusual. Our capacity to solve them
+    - Problem Solving - Problems can pop up in everything we do and are sometimes highly unusual. Our capacity to solve them is what makes our services work for our users.
     - Debugging skills - Whether it is debugging a vexing code error or performance issue, being able to effectively debug issues is quite important to what we do.
     - Linux - Installing, running, and configuring a Linux distro (especially a DYI distribution like Arch Linux) teaches you quite a lot.
     - Scripting - If you are doing something repeatably, write a Bash or Python script to automate it. These tiny scripts can teach you a lot over a long period of time.
