@@ -1,7 +1,6 @@
 summary: |
     The Student Systems Administrators are a group of students who maintain computer equipment and networked services in TJ's Computer Systems Lab. 
-    We run services which power the entire school's operations, including the TJ Website [tjhsst.edu](https://tjhsst.edu), 
-    TJ Email accounts (@tjhsst.edu), and a student-run and developed project known as the TJ Intranet ([ion.tjhsst.edu](https://ion.tjhsst.edu)), 
+    We run services which power the entire school's operations, including TJ Email accounts (@tjhsst.edu) and a student-run and developed project known as the TJ Intranet ([ion.tjhsst.edu](https://ion.tjhsst.edu)), 
     which is used daily by students and staff and runs the Eighth Period student activity program. 
     Sysadmins manage over 30 physical servers and 60 student workstations, all powered by [GNU/Linux](https://en.wikipedia.org/wiki/Linux) and open source software.
 
