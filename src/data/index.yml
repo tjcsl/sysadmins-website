@@ -41,45 +41,48 @@ services:
 understudy: true
 
 members:
-    - name: Theo Ouzhinski
-      year: 2020
-      role: Lead Sysadmin, President, Infrastructure Lead, Director Lead, Intranet Supervisor, Security/Abuse Lead, Compliance Lead, Web Presence Coordinator, Hardware Coordinator
-    - name: Keegan Lanzillotta
-      year: 2020
-      role: Lead Sysadmin, WWW Lead
-    - name: John Beutner
-      year: 2020
-      role: Deputy Infrastructure Lead, Academic Services Lead, Workstations Lead, Signage Lead, Intranet Lead, Deputy Director Lead, NTP Contact
-    - name: Parthiv Chigurapati
-      year: 2020
-      role: Advanced Computing Hardware Lead
-    - name: Akash Bhave
+    - name: Ethan Nguyen
       year: 2021
-      role: Ion Team Member (Frontend)
+      role: Lead Sysadmin, Infrastructure Lead, Director Lead, Intranet Supervisor, Mail Lead, Advanced Computing Hardware Lead, WWW Lead
+    - name: Anup Bagali
+      year: 2021
+      role: Lead Sysadmin, Intranet Supervisor, Academic Services Lead, Cluster Lead, Security Lead
+    - name: Lauren Delwiche
+      year: 2022
+      role: Intranet Lead
     - name: Alexander Black
       year: 2021
       role: Cluster Co-Lead, Printing Lead
-    - name: Anup Bagali
-      year: 2021
-      role: Junior Backend Admin
-    - name: Ethan Nguyen
-      year: 2021
-      role: Junior Backend Admin
     - name: Ryan Kim
       year: 2021
-      role: Documentation Lead
+      role: Documentation Lead, Deputy Academic Services Lead, Networking Lead
     - name: Shreepa Parthaje
       year: 2021
       role: Cluster Co-Lead
-    - name: Vikram Raghu
-      year: 2021
-      role: Ion Team Member, Website Team Member
-    - name: Lauren Delwiche
-      year: 2022
-      role: Ion Team Member, Website Team Member
     - name: Shreyas Mayya
       year: 2022
-      role: Monitoring Lead
+      role: Monitoring Lead Workstations Lead
+    - name: Akash Bhave
+      year: 2021
+      role: Ion Team Member (Frontend)
+    - name: Vikram Raghu
+      year: 2021
+      role: Frontend Developer
+    - name: Rushil Umaretiya
+      year: 2023
+      role: Junior Backend Admin
+    - name: Raffu Khondaker
+      year: 2022
+      role: Junior Backend Admin
+    - name: Nathaniel Kenschaft
+      year: 2023
+      role: Junior Backend Admin
+    - name: Darius Kianersi
+      year: 2022
+      role: Junior Backend Admin
+    - name: Praneeth Bhandaru
+      year: 2023
+      role: Junior Backend Admin
 
 contact:
     - title: General Correspondence
