@@ -26,6 +26,7 @@ services:
       summary: |
           The over 60 Linux workstations within CSL classrooms offer students the capability to work within a Linux environment.
     - name: Cluster
+      link: https://jupyterhub.tjhsst.edu
       summary: |
           The 2 TJHSST High Performance Computing clusters provide CPU & GPU computing power to support students' research & academic endeavours.
     - name: Signage
