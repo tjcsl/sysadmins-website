@@ -1,250 +1,202 @@
 body: |
-    As part of the TJHSST Computer Systems Lab (CSL or SysLab), the Student Systems Administrators (Sysadmins or SysAdmins), a group of volunteer students, maintain various computing resources and services for the school.
+        As part of the TJHSST Computer Systems Lab (CSL or SysLab), the Student Systems Administrators (Sysadmins or SysAdmins), a group of volunteer students, maintain various computing resources and services for the school.
 
-    The Student Systems Administrator Understudy program (for short, Sysadmin Understudy Program) is the training program for the full Student Systems Administrators program. We aim to identify and develop talent that can sustain and enhance the long legacy of the Sysadmin program and productively enhance the Lab and school.
-    
-    ## Timeline
-    This year, the Sysadmin Understudy program is composed of four stages.
+        The Student Systems Administrator Understudy program (for short, Sysadmin Understudy Program) is the training program for the full Student Systems Administrators program. We aim to identify and develop talent that can sustain and enhance the long legacy of the Sysadmin program and productively enhance the Lab and school.
 
-    ### Interest Sessions
+        ## Timeline
+        This year, the Sysadmin Understudy program is composed of four stages.
 
-    Up until around February 14th, we will hold interest sessions for all those interested in the program. During this session, we will give a brief overview of the program.
+        ### Interest Sessions
 
-    If you continue to be interested in the program, please fill out the [following Google Form](https://forms.gle/zs5Xfm6gBKfJXCr79), so we can gauge interest in the next stage.
+        Up until around TBD, we will hold interest sessions for all those interested in the program. During this session, we will give a brief overview of the program.
 
-    *Scheduled Sessions (Tentative)*
+        If you continue to be interested in the program, please fill out the [following Google Form]() (this link doesn't go anywhere), so we can gauge interest in the next stage.
 
-    Do not sign up for more than one interest session because all information will be repeated.
+        *Scheduled Sessions (Tentative)*
 
-    * Feb. 7, B block
-    * Feb. 12, B block
-    * Feb. 14, B block
+        Do not sign up for more than one interest session because all information will be repeated.
 
-    ### Shadow Sessions
+        * No interest sessions have been scheduled yet.
 
-    Following the interest sessions, we will have around two weeks where you will have the opportunity to "shadow" a current Sysadmin.
+        ### Shadow Sessions
 
-    **Eighth period blocks should open by the end of President's Day Weekend, as we are assessing the best possible schedule based on form responses.**
+        Following the interest sessions, we will have around two weeks where you will have the opportunity to "shadow" a current Sysadmin.
 
-    *Scheduled Sessions (Tentative)*
+        **Eighth period blocks should open by TBD, as we are assessing the best possible schedule based on form responses.**
 
-    Do not sign up for more than one shadow session.
+        *Scheduled Sessions (Tentative)*
 
-    * Feb. 19, B block
-    * Feb. 21, B block
-    * Feb. 26, B block
-    * Feb. 28, B block
-    * Mar. 4, B block
+        Do not sign up for more than one shadow session.
 
-    ### Work Sessions
+        * No shadow sessions have been scheduled yet.
 
-    Following the shadow sessions, you will get mini-tasks that help you get some hands-on experience with some of what we do.
+        ### Work Sessions
 
-    *Scheduled Sessions*
+        Following the shadow sessions, you will get mini-tasks that help you get some hands-on experience with some of what we do.
 
-    TBD
+        *Scheduled Sessions*
 
-    **Application & Selection**
+        * No work sessions have been scheduled yet.
 
-    Following work sessions, we will accept applications for the next class of Sysadmins.
-    
-    ## Frequently Asked Questions
-    
-    ### General
+        **Application & Selection**
 
-    **What do I need in order to become an Understudy?**
+        Following work sessions, we will accept applications for the next class of Sysadmins.
 
-    You need to be an active, enrolled **TJ student**, preferably a current freshman or sophomore. We consider juniors, but the bar for them is much higher than others.
+        ## Frequently Asked Questions
 
-    In addition, due to the nature of our work, you need to have **strong character**.
+        ### General
 
-    ### Learning/Understudy
+        **What do I need in order to become an Understudy?**
 
-    **What technical skills to qualify to be an Understudy?**
+        You need to be an active, enrolled **TJ student**, preferably a current freshman or sophomore. We consider juniors, but the bar for them is much higher than others.
 
-    _None!_ You do need a strong willingness to learn.
+        In addition, due to the nature of our work, you need to have **strong character**.
 
-    **What time commitment does the Understudy and full Sysadmin program demand?**
+        ### Learning/Understudy
 
-    As an Understudy, you will need to attend eighth period sessions that generally don't exceed
-    more than once a week. Outside of school, the amount of time you will spend will vary
-    depending on how much you need to practice and research to become an effective Sysadmin
-    and complete tasks you are unable to complete during Eighth Periods. However, until
-    you are a full Sysadmin, you are not subject to any official time commitments and
-    may choose not to continue at any time.
+        **What technical skills to qualify to be an Understudy?**
 
-    If you apply and are accepted as a full Sysadmin, you would be expected to attend
-    around two eighth period blocks per week. Outside of eighth periods, the Sysadmin
-    time commitment varies on your areas and degree of responsibility. In general,
-    the total time outside of eighth periods per week doesn't exceed a couple
-    hours (at a maximum), unless you are involved in very complex projects or in a leadership role.
+        _None!_ You do need a strong willingness to learn.
 
-    Due to our unique responsibilities to the school, however, you may on rare
-    occasions be called to step up at unusual times, such as mornings,
-    lunches, passing time, evenings, and weekends. While we try to design our
-    systems and processes to prevent these occasions, when they do occur, the
-    responsible Sysadmins need to step up. For example, if you are responsible for Ion and there is a crash preventing eighth periods from
-    occurring, you would need to use all available time to resolve the issue together with your fellow Ion team members.
+        **What time commitment does the Understudy and full Sysadmin program demand?**
 
-    The vast majority of the time, however, we are not performing extremely time sensitive work.
-    As a result, Sysadmins can shape their schedule as they fit, so long as they
-    are making substantive progress on their work. At various occasions, we hold
-    scheduled & impromptu lunch, morning, and passing periods meetings where
-    your expertise may be called for. In addition, Sysadmins should be
-    reasonably responsive to their Mattermost/Slack/email messages.
+        As an Understudy, you will need to attend eighth period sessions that generally don't exceed
+        more than once a week. Outside of school, the amount of time you will spend will vary
+        depending on how much you need to practice and research to become an effective Sysadmin
+        and complete tasks you are unable to complete during Eighth Periods. However, until
+        you are a full Sysadmin, you are not subject to any official time commitments and
+        may choose not to continue at any time.
 
-    ### Sysadmins
+        If you apply and are accepted as a full Sysadmin, you would be expected to attend
+        around two eighth period blocks per week. Outside of eighth periods, the Sysadmin
+        time commitment varies on your areas and degree of responsibility. In general,
+        the total time outside of eighth periods per week doesn't exceed a couple
+        hours (at a maximum), unless you are involved in very complex projects or in a leadership role.
 
-    **What qualities do successful Sysadmins have?**
+        Due to our unique responsibilities to the school, however, you may on rare
+        occasions be called to step up at unusual times, such as mornings,
+        lunches, passing time, evenings, and weekends. While we try to design our
+        systems and processes to prevent these occasions, when they do occur, the
+        responsible Sysadmins need to step up. For example, if you are responsible for Ion and there is a crash preventing eighth periods from
+        occurring, you would need to use all available time to resolve the issue together with your fellow Ion team members.
 
-    To reiterate, _we do not at all expect close to complete technical knowledge in order to become an Understudy_. The current senior Sysadmins had nowhere as much experience as they do now. We do expect you, however, to be extremely willing to learn and experiment on your own, since the skills we use are not something that can be learned via a math formula, textbook, or lecture. Instead, they come from practice, experimentation, research, and dedication, and the Sysadmin program provides an opportunity to do just that.
+        The vast majority of the time, however, we are not performing extremely time sensitive work.
+        As a result, Sysadmins can shape their schedule as they fit, so long as they
+        are making substantive progress on their work. At various occasions, we hold
+        scheduled & impromptu lunch, morning, and passing periods meetings where
+        your expertise may be called for. In addition, Sysadmins should be
+        reasonably responsive to their Mattermost/Slack/email messages.
 
-    Based on our experiences, having a strong foundation in these areas is quite important:
-    - Problem Solving - Problems can pop up in everything we do and are sometimes highly unusual. Our capacity to solve them is what makes our services work for our users.
-    - Debugging skills - Whether it is debugging a vexing code error or performance issue, being able to effectively debug issues is quite important to what we do.
-    - Linux - Installing, running, and configuring a Linux distro (especially a DYI distribution like Arch Linux) teaches you quite a lot.
-    - Scripting - If you are doing something repeatably, write a Bash or Python script to automate it. These tiny scripts can teach you a lot over a long period of time.
-    - Programming - Being able to write good, clean code is at the heart of what we do. We mostly use Python, but knowing one language, like Java, C, or C++, makes learning others much easier.
-    - Git - We use Git _a lot_, so it is nice to get comfortable working with it regularly, with an especial focus on effective branch rebasing. One good way to learn is to start using it to store your code from school classes.
-    - Computer Basics - It is very useful to know the basics of computers, like what RAM, CPUs, operating systems, Windows, Linux, and Mac OS is.
-    - Typing - We type a lot, so being able to type quickly is just nice.
+        ### Sysadmins
 
-    **What specifically do Sysadmins do?**
+        **What qualities do successful Sysadmins have?**
 
-    The Lab functions similarly to a small-to-mid sized business with all the needed work that accompanies that. As a result, in addition to maintaining a significant number of publicly-facing services, we need to maintain and improve the many non-public systems that support them.
+        To reiterate, _we do not at all expect close to complete technical knowledge in order to become an Understudy_. The current senior Sysadmins had nowhere as much experience as they do now. We do expect you, however, to be extremely willing to learn and experiment on your own, since the skills we use are not something that can be learned via a math formula, textbook, or lecture. Instead, they come from practice, experimentation, research, and dedication, and the Sysadmin program provides an opportunity to do just that.
 
-    Some of the primary areas that our work falls under include (in no particular order of importance):
-      - **Systems Administration** - upgrading, maintaining, & patching our Linux servers & related services
-      - **Incident Response** - quickly responding & resolving issues that arise in the Lab
-      - **Network Administration** - designing, configuring, & maintaining our relatively-large computer network and associated devices
-      - **Database Administration** - designing & administering databases; optimizing database performance
-      - **Automation** - designing & developing software to automate tasks and the configuration of our systems
-      - **Web Development** - developing services exposed on the Internet (primarily backend with Django with some work in frontend and graphic design)
-      - **Monitoring** - developing & designing tooling to monitor our services for issues
-      - **Security** - reviewing our software & systems for security vulnerabilities; developing software/processes/architecture to prevent security vulnerabilities
-      - **Performance** - making our code/systems faster & more efficient
-      - **Documentation** - writing down how our infrastructure is set up to pass down to future generations of Sysadmins
-      - **Technical Support** - responding to in-person and electronic questions from the broader TJ community
-      - **Hardware Maintenance** - building, configuring, & constantly maintaining hardware to support the Lab
-      - **Infrastructure Design** - designing good architectures for scalable, efficient, and effective systems & software
-      - **Project Management** - managing & allocating tasks within the team
+Based on our experiences, having a strong foundation in these areas is quite important:
+        - Problem Solving - Problems can pop up in everything we do and are sometimes highly unusual. Our capacity to solve them is what makes our services work for our users.
+        - Debugging skills - Whether it is debugging a vexing code error or performance issue, being able to effectively debug issues is quite important to what we do.
+        - Linux - Installing, running, and configuring a Linux distro (especially a DYI distribution like Arch Linux) teaches you quite a lot.
+        - Scripting - If you are doing something repeatably, write a Bash or Python script to automate it. These tiny scripts can teach you a lot over a long period of time.
+        - Programming - Being able to write good, clean code is at the heart of what we do. We mostly use Python, but knowing one language, like Java, C, or C++, makes learning others much easier.
+        - Git - We use Git _a lot_, so it is nice to get comfortable working with it regularly, with an especial focus on effective branch rebasing. One good way to learn is to start using it to store your code from school classes.
+        - Computer Basics - It is very useful to know the basics of computers, like what RAM, CPUs, operating systems, Windows, Linux, and Mac OS is.
+        - Typing - We type a lot, so being able to type quickly is just nice.
 
-    **Do we "hack"?**
+          **What specifically do Sysadmins do?**
 
-    In the context of our work, "hacking" is using technical knowledge to overcome problems. In that respect, we hack to fix problems & make our services work.
+          The Lab functions similarly to a small-to-mid sized business with all the needed work that accompanies that. As a result, in addition to maintaining a significant number of publicly-facing services, we need to maintain and improve the many non-public systems that support them.
 
-    **Do Sysadmins get to choose what they work on?**
+Some of the primary areas that our work falls under include (in no particular order of importance):
+        - **Systems Administration** - upgrading, maintaining, & patching our Linux servers & related services
+        - **Incident Response** - quickly responding & resolving issues that arise in the Lab
+        - **Network Administration** - designing, configuring, & maintaining our relatively-large computer network and associated devices
+        - **Database Administration** - designing & administering databases; optimizing database performance
+        - **Automation** - designing & developing software to automate tasks and the configuration of our systems
+        - **Web Development** - developing services exposed on the Internet (primarily backend with Django with some work in frontend and graphic design)
+        - **Monitoring** - developing & designing tooling to monitor our services for issues
+        - **Security** - reviewing our software & systems for security vulnerabilities; developing software/processes/architecture to prevent security vulnerabilities
+        - **Performance** - making our code/systems faster & more efficient
+        - **Documentation** - writing down how our infrastructure is set up to pass down to future generations of Sysadmins
+        - **Technical Support** - responding to in-person and electronic questions from the broader TJ community
+        - **Hardware Maintenance** - building, configuring, & constantly maintaining hardware to support the Lab
+        - **Infrastructure Design** - designing good architectures for scalable, efficient, and effective systems & software
+        - **Project Management** - managing & allocating tasks within the team
 
-    While we try to pair strengths & interests with work, Sysadmins have to be accommodating to
-    changing priorities and demands. However, that does not mean that a Sysadmin will stop
-    working in area that interest them, since we have a lot of overlap between areas.
-    
-    For example, if a Sysadmin is responsible for web development on Ion and securing Ion becomes
-    a higher priority, the Sysadmin would need to prioritize work on finding security
-    issues in our codebase instead of developing new features. At the same time,
-    however, the Sysadmin would be able to continue doing web development, just in a different form.
+          **Do we "hack"?**
 
-    Another example would be, if a Sysadmins is working with building hardware and monitoring
-    of that system's hardware needs to be done, the Sysadmin would be able to work with
-    hardware, just in a different form by extracting metrics from hardware.
+          In the context of our work, "hacking" is using technical knowledge to overcome problems. In that respect, we hack to fix problems & make our services work.
 
-    Ultimately, Sysadmins need to be comfortable working with computers and computer software,
-    regardless of what form that takes, because we cannot avoid changing priorities.
+          **Do Sysadmins get to choose what they work on?**
 
-    ### Process
+          While we try to pair strengths & interests with work, Sysadmins have to be accommodating to
+          changing priorities and demands. However, that does not mean that a Sysadmin will stop
+          working in area that interest them, since we have a lot of overlap between areas.
 
-    **How are Sysadmins selected?**
+          For example, if a Sysadmin is responsible for web development on Ion and securing Ion becomes
+          a higher priority, the Sysadmin would need to prioritize work on finding security
+          issues in our codebase instead of developing new features. At the same time,
+          however, the Sysadmin would be able to continue doing web development, just in a different form.
 
-    Successful applicants into the Sysadmin program are active participants in the Understudy program and acquire skills (both in and outside of the program) that would be useful as a contributing Sysadmin. Based on an application we will release near the end of the year, we will admit students as full Sysadmins based on a variety of factors with a goal of identifying students who would contribute productively to the program, Lab, and school. Some of these factors include:
-    * degree of participation in the Understudy program
-    * demonstrated willingness to learn
-    * demonstrated technical skills valuable to the program
-    * demonstrated Sysadmin aptitude
-    * commitment to the program
-    * strong character
+          Another example would be, if a Sysadmins is working with building hardware and monitoring
+          of that system's hardware needs to be done, the Sysadmin would be able to work with
+          hardware, just in a different form by extracting metrics from hardware.
 
-    ### Expected Conduct
-    
-    **What are the expectations for technology use?**
+          Ultimately, Sysadmins need to be comfortable working with computers and computer software,
+          regardless of what form that takes, because we cannot avoid changing priorities.
 
-    One of the reasons the CSL exists is to provide a learning environment for TJ students,
-    and, as a result, students have relative freedom. In exchange for the relative freedom
-    to experiment, we expect all users to behave as responsible digital citizens and
-    respect boundaries, rules, the Lab, and other users, both within and outside the Lab.
-    
-    All conduct is regulated by appropriate school regulations, including the
-    FCPS Acceptable Use Policy. Prohibited activities include those that lead to:
-    * compromise of CSL systems
-    * compromise of user data
-    * interference with CSL operations
-    * unauthorized access on any systems
-    * harm to the Lab, school, or others
-    * or any other improper result
+          ### Process
 
-    The Student Systems Administrators, CSL Lab Directors, TJHSST Technology Team,
-    and the school supervise all activity within the Lab, and any technology
-    usage incompatible with the rules will be subject to appropriate
-    technical, disciplinary, and legal consequences.
+          **How are Sysadmins selected?**
 
-    **What are the expectations for conduct within the Lab?**
-    
-    As described above, all school rules apply within the Lab.
-    Access to unauthorized areas of the Lab, including but not limited to the
-    machine room or storage rooms, without appropriate permission is prohibited.
-    As an Understudy, you *do not have the authority* of a full Student
-    Systems Administrator. As a result, you may not represent yourself
-    as a Sysadmin or other representative of the Computer Systems Lab.
+Successful applicants into the Sysadmin program are active participants in the Understudy program and acquire skills (both in and outside of the program) that would be useful as a contributing Sysadmin. Based on an application we will release near the end of the year, we will admit students as full Sysadmins based on a variety of factors with a goal of identifying students who would contribute productively to the program, Lab, and school. Some of these factors include:
+        * degree of participation in the Understudy program
+        * demonstrated willingness to learn
+        * demonstrated technical skills valuable to the program
+        * demonstrated Sysadmin aptitude
+        * commitment to the program
+        * strong character
 
-    ## Communications
-    
-    We will post many announcements on this page below, so please bookmark this page.
+        ### Expected Conduct
 
-    If you have any questions or concerns, please feel
-    free to email [understudy@tjhsst.edu](mailto:understudy@tjhsst.edu)
-    or reach out to a Student Systems Administrator.
-    
-    ## Announcements
-    
-    - **02/09/2020**: Thank you for your interest in the Sysadmin Understudy program!
-      If you are interested in continuing in the process, please fill out the
-      following Google form by the end of this week (https://forms.gle/zs5Xfm6gBKfJXCr79).
-      We will use this form to gauge overall interest in the program beyond these initial interest sessions.
+        **What are the expectations for technology use?**
 
-    - **02/16/2020**: We are now ready to open signups for the shadow sessions.
+        One of the reasons the CSL exists is to provide a learning environment for TJ students,
+        and, as a result, students have relative freedom. In exchange for the relative freedom
+        to experiment, we expect all users to behave as responsible digital citizens and
+        respect boundaries, rules, the Lab, and other users, both within and outside the Lab.
 
-    We will have four B block (or, if interest surpasses that, more) sessions:
-    Wed. Feb. 19, Fri. Feb. 21, Wed. Feb 26, Fri, Feb 28. They each will have a
-    capacity of 7 (or more, at our discretion), so that we can have a closer
-    interaction. In order to give an equal opportunity for all students to
-    shadow, do NOT sign up for more than *one* of the Sysadmin Understudy
-    sessions scheduled on those days. If you sign up for one and later
-    find out you can't show up, please switch out in order to give someone
-    else a chance.
+        All conduct is regulated by appropriate school regulations, including the
+FCPS Acceptable Use Policy. Prohibited activities include those that lead to:
+        * compromise of CSL systems
+        * compromise of user data
+        * interference with CSL operations
+        * unauthorized access on any systems
+        * harm to the Lab, school, or others
+        * or any other improper result
 
-      The shadow sessions will be a block where you will have the opportunity to
-      "shadow" current Sysadmins and see a snapshot of what we do. We will also
-      offer a server room tour, since we couldn't feasibly do that during
-      30-person interest sessions. You will also have the opportunity to ask
-      questions one-on-one with current Sysadmins and get a bigger deep-dive
-      into some of the technologies we use.
+        The Student Systems Administrators, CSL Lab Directors, TJHSST Technology Team,
+        and the school supervise all activity within the Lab, and any technology
+        usage incompatible with the rules will be subject to appropriate
+        technical, disciplinary, and legal consequences.
 
-      As a disclaimer, the work we do during the shadow sessions does not necessarily
-      fully represent all of our work, but we hope it gives you good insight.
+        **What are the expectations for conduct within the Lab?**
 
-    - **02/21/2020**: Due to the high interest in the Understudy program,
-      we will be requiring a preliminary application in order to continue to the work
-      session phase. If, after you have completed your shadow session, you are
-      interested in becoming a full Understudy, please fill out this form
-      so we can learn more about you: https://forms.gle/t2EgYfgvWi9ZzAC16.
-      This constitutes your application into the Understudy program.
+        As described above, all school rules apply within the Lab.
+        Access to unauthorized areas of the Lab, including but not limited to the
+        machine room or storage rooms, without appropriate permission is prohibited.
+        As an Understudy, you *do not have the authority* of a full Student
+        Systems Administrator. As a result, you may not represent yourself
+        as a Sysadmin or other representative of the Computer Systems Lab.
 
-    If you haven't had your shadow session yet, you can start drafting
-    your responses now to get a head start, but please wait until after your shadow session to submit the form.
-      
-      All applications will be due at 11:59 PM local time on Friday,
-      March 6th, 2020. We plan on sending out decisions by the end
-      of the following weekend.
-      
-      Thank you all for your interest in the Sysadmin Understudy
-      program. If you have any questions or concerns, please
-      feel free to reach out to us by emailing understudy@tjhsst.edu
+        ## Communications
+
+        We will post many announcements on this page below, so please bookmark this page.
+
+        If you have any questions or concerns, please feel
+        free to email [understudy@tjhsst.edu](mailto:understudy@tjhsst.edu)
+        or reach out to a Student Systems Administrator.
+
+        ## Announcements
+
+        - **01/08/21**: There are no announcements as of writing. Thank you for your interest, however.
