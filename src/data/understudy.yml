@@ -2,13 +2,14 @@ body: |
     As part of the TJHSST Computer Systems Lab (CSL or SysLab), the Student Systems Administrators (Sysadmins or SysAdmins), a group of volunteer students, maintain various computing resources and services for the school.
 
     The Student Systems Administrator Understudy program (for short, Sysadmin Understudy Program) is the training program for the full Student Systems Administrators program. We aim to identify and develop talent that can sustain and enhance the long legacy of the Sysadmin program and productively enhance the Lab and school.
-    
+
     ## Timeline
     This year, the Sysadmin Understudy program is composed of four stages.
 
     ### Interest Sessions
-
+    
     There are no more interest sessions scheduled for this year (2021). If you still are interested, please join [this Slack channel](https://tjcsl.slack.com) using your TJHSST student email (202X...@tjhsst.edu).
+
 
     ### Shadow Sessions
 
@@ -29,14 +30,14 @@ body: |
 
     *Scheduled Sessions*
 
-    TBD
+    * No work sessions have been scheduled yet.
 
     **Application & Selection**
 
     Following work sessions, we will accept applications for the next class of Sysadmins.
-    
+
     ## Frequently Asked Questions
-    
+
     ### General
 
     **What do I need in order to become an Understudy?**
@@ -101,20 +102,20 @@ body: |
     The Lab functions similarly to a small-to-mid sized business with all the needed work that accompanies that. As a result, in addition to maintaining a significant number of publicly-facing services, we need to maintain and improve the many non-public systems that support them.
 
     Some of the primary areas that our work falls under include (in no particular order of importance):
-      - **Systems Administration** - upgrading, maintaining, & patching our Linux servers & related services
-      - **Incident Response** - quickly responding & resolving issues that arise in the Lab
-      - **Network Administration** - designing, configuring, & maintaining our relatively-large computer network and associated devices
-      - **Database Administration** - designing & administering databases; optimizing database performance
-      - **Automation** - designing & developing software to automate tasks and the configuration of our systems
-      - **Web Development** - developing services exposed on the Internet (primarily backend with Django with some work in frontend and graphic design)
-      - **Monitoring** - developing & designing tooling to monitor our services for issues
-      - **Security** - reviewing our software & systems for security vulnerabilities; developing software/processes/architecture to prevent security vulnerabilities
-      - **Performance** - making our code/systems faster & more efficient
-      - **Documentation** - writing down how our infrastructure is set up to pass down to future generations of Sysadmins
-      - **Technical Support** - responding to in-person and electronic questions from the broader TJ community
-      - **Hardware Maintenance** - building, configuring, & constantly maintaining hardware to support the Lab
-      - **Infrastructure Design** - designing good architectures for scalable, efficient, and effective systems & software
-      - **Project Management** - managing & allocating tasks within the team
+    - **Systems Administration** - upgrading, maintaining, & patching our Linux servers & related services
+    - **Incident Response** - quickly responding & resolving issues that arise in the Lab
+    - **Network Administration** - designing, configuring, & maintaining our relatively-large computer network and associated devices
+    - **Database Administration** - designing & administering databases; optimizing database performance
+    - **Automation** - designing & developing software to automate tasks and the configuration of our systems
+    - **Web Development** - developing services exposed on the Internet (primarily backend with Django with some work in frontend and graphic design)
+    - **Monitoring** - developing & designing tooling to monitor our services for issues
+    - **Security** - reviewing our software & systems for security vulnerabilities; developing software/processes/architecture to prevent security vulnerabilities
+    - **Performance** - making our code/systems faster & more efficient
+    - **Documentation** - writing down how our infrastructure is set up to pass down to future generations of Sysadmins
+    - **Technical Support** - responding to in-person and electronic questions from the broader TJ community
+    - **Hardware Maintenance** - building, configuring, & constantly maintaining hardware to support the Lab
+    - **Infrastructure Design** - designing good architectures for scalable, efficient, and effective systems & software
+    - **Project Management** - managing & allocating tasks within the team
 
     **Do we "hack"?**
 
@@ -125,7 +126,7 @@ body: |
     While we try to pair strengths & interests with work, Sysadmins have to be accommodating to
     changing priorities and demands. However, that does not mean that a Sysadmin will stop
     working in area that interest them, since we have a lot of overlap between areas.
-    
+
     For example, if a Sysadmin is responsible for web development on Ion and securing Ion becomes
     a higher priority, the Sysadmin would need to prioritize work on finding security
     issues in our codebase instead of developing new features. At the same time,
@@ -151,14 +152,14 @@ body: |
     * strong character
 
     ### Expected Conduct
-    
+
     **What are the expectations for technology use?**
 
     One of the reasons the CSL exists is to provide a learning environment for TJ students,
     and, as a result, students have relative freedom. In exchange for the relative freedom
     to experiment, we expect all users to behave as responsible digital citizens and
     respect boundaries, rules, the Lab, and other users, both within and outside the Lab.
-    
+
     All conduct is regulated by appropriate school regulations, including the
     FCPS Acceptable Use Policy. Prohibited activities include those that lead to:
     * compromise of CSL systems
@@ -174,7 +175,7 @@ body: |
     technical, disciplinary, and legal consequences.
 
     **What are the expectations for conduct within the Lab?**
-    
+
     As described above, all school rules apply within the Lab.
     Access to unauthorized areas of the Lab, including but not limited to the
     machine room or storage rooms, without appropriate permission is prohibited.
@@ -183,55 +184,13 @@ body: |
     as a Sysadmin or other representative of the Computer Systems Lab.
 
     ## Communications
-    
+
     We will post many announcements on this page below, so please bookmark this page.
 
     If you have any questions or concerns, please feel
     free to email [understudy@tjhsst.edu](mailto:understudy@tjhsst.edu)
     or reach out to a Student Systems Administrator.
-    
+
     ## Announcements
-    
-    - **02/09/2020**: Thank you for your interest in the Sysadmin Understudy program!
-      If you are interested in continuing in the process, please fill out the
-      following Google form by the end of this week (https://forms.gle/zs5Xfm6gBKfJXCr79).
-      We will use this form to gauge overall interest in the program beyond these initial interest sessions.
 
-    - **02/16/2020**: We are now ready to open signups for the shadow sessions.
-
-    We will have four B block (or, if interest surpasses that, more) sessions:
-    Wed. Feb. 19, Fri. Feb. 21, Wed. Feb 26, Fri, Feb 28. They each will have a
-    capacity of 7 (or more, at our discretion), so that we can have a closer
-    interaction. In order to give an equal opportunity for all students to
-    shadow, do NOT sign up for more than *one* of the Sysadmin Understudy
-    sessions scheduled on those days. If you sign up for one and later
-    find out you can't show up, please switch out in order to give someone
-    else a chance.
-
-      The shadow sessions will be a block where you will have the opportunity to
-      "shadow" current Sysadmins and see a snapshot of what we do. We will also
-      offer a server room tour, since we couldn't feasibly do that during
-      30-person interest sessions. You will also have the opportunity to ask
-      questions one-on-one with current Sysadmins and get a bigger deep-dive
-      into some of the technologies we use.
-
-      As a disclaimer, the work we do during the shadow sessions does not necessarily
-      fully represent all of our work, but we hope it gives you good insight.
-
-    - **02/21/2020**: Due to the high interest in the Understudy program,
-      we will be requiring a preliminary application in order to continue to the work
-      session phase. If, after you have completed your shadow session, you are
-      interested in becoming a full Understudy, please fill out this form
-      so we can learn more about you: https://forms.gle/t2EgYfgvWi9ZzAC16.
-      This constitutes your application into the Understudy program.
-
-    If you haven't had your shadow session yet, you can start drafting
-    your responses now to get a head start, but please wait until after your shadow session to submit the form.
-      
-      All applications will be due at 11:59 PM local time on Friday,
-      March 6th, 2020. We plan on sending out decisions by the end
-      of the following weekend.
-      
-      Thank you all for your interest in the Sysadmin Understudy
-      program. If you have any questions or concerns, please
-      feel free to reach out to us by emailing understudy@tjhsst.edu
+    - **01/08/21**: There are no announcements as of writing. Thank you for your interest, however.
