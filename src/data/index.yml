@@ -39,51 +39,45 @@ services:
       summary: |
           The Othello Tournament server provides student a platform to run Othello code against each other during TJHSST Artificial Intelligence classes.
 
-understudy: true
+understudy: false
 
 members:
-    - name: Ethan Nguyen
-      year: 2021
-      role: Lead Sysadmin, Infrastructure Lead, Director Lead, Intranet Supervisor, Mail Lead, Advanced Computing Hardware Lead, WWW Lead
-    - name: Anup Bagali
-      year: 2021
-      role: Lead Sysadmin, Intranet Supervisor, Academic Services Lead, Cluster Lead, Security Lead
-    - name: Lauren Delwiche
-      year: 2022
-      role: Intranet Lead
-    - name: Alexander Black
-      year: 2021
-      role: Cluster Co-Lead, Printing Lead
-    - name: Ryan Kim
-      year: 2021
-      role: Documentation Lead, Deputy Academic Services Lead, Networking Lead
-    - name: Shreepa Parthaje
-      year: 2021
-      role: Cluster Co-Lead
     - name: Shreyas Mayya
       year: 2022
-      role: Monitoring Lead Workstations Lead
-    - name: Akash Bhave
-      year: 2021
-      role: Ion Team Member (Frontend)
-    - name: Vikram Raghu
-      year: 2021
-      role: Frontend Developer
+      role: Lead Sysadmin, Infrastructure Lead
+    - name: Lauren Delwiche
+      year: 2022
+      role: Lead Sysadmin, Ion Lead
     - name: Rushil Umaretiya
       year: 2023
-      role: Junior Backend Admin
+      role: Cluster Co-Lead, Advanced Computing Hardware Co-Lead
     - name: Raffu Khondaker
       year: 2022
-      role: Junior Backend Admin
+      role: Cluster Co-Lead, Advanced Computing Hardware Co-Lead
     - name: Nathaniel Kenschaft
       year: 2023
-      role: Junior Backend Admin
+      role: Monitoring Lead, Documentation Lead
     - name: Darius Kianersi
       year: 2022
-      role: Junior Backend Admin
+      role: Director Lead, Printing Lead
     - name: Praneeth Bhandaru
       year: 2023
-      role: Junior Backend Admin
+      role: Mail Lead, Workstations Lead
+    - name: Bradley Cao
+      year: 2023
+      role: Junior Admin
+    - name: Saloni Shah
+      year: 2023
+      role: Junior Admin
+    - name: Ram Reddy
+      year: 2023
+      role: Junior Admin
+    - name: Kedar Prasad
+      year: 2024
+      role: Junior Admin
+    - name: Krishnan Shankar
+      year: 2024
+      role: Junior Admin
 
 contact:
     - title: General Correspondence
