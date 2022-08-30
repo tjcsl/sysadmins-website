@@ -39,41 +39,50 @@ services:
       summary: |
           The Othello Tournament server provides student a platform to run Othello code against each other during TJHSST Artificial Intelligence classes.
 
-understudy: true
+understudy: false
 
 members:
-    - name: Lauren Delwiche
-      year: 2022
-      role: Lead Sysadmin, Intranet Lead, Academic Services Lead, Workstations Lead
-    - name: Shreyas Mayya
-      year: 2022
-      role: Lead Sysadmin, Infrastructure Lead, Mail Supervisor, Security Lead
-    - name: Raffu Khondaker
-      year: 2022
-      role: Cluster Co-Lead, Advanced Computing Hardware Co-Lead
-    - name: Darius Kianersi
-      year: 2022
-      role: Director Lead, Printing Lead
     - name: Rushil Umaretiya
       year: 2023
-      role: Cluster Co-Lead, Advanced Computing Hardware Co-Lead
+      role: Lead Sysadmin, Infrastructure Lead, Academic Services Lead, Director Lead
     - name: Nathaniel Kenschaft
       year: 2023
-      role: Monitoring Lead, Documentation Lead, Mail Lead
+      role: Lead Sysadmin, Mail Supervisor, Security Lead, Hardware Lead
     - name: Saloni Shah
       year: 2023
-      role: Junior Admin
+      role: Intranet Lead, Documentation Lead
     - name: Bradley Cao
       year: 2023
-      role: Junior Admin
+      role: Workstations Co-Lead, ACH Co-Lead
     - name: Ram Reddy
       year: 2023
-      role: Junior Admin
+      role: Monitoring Lead, ACH Co-Lead, Cluster Co-Lead
     - name: Kedar Prasad
       year: 2024
-      role: Junior Admin
+      role: Mail Supervisor, Cluster Co-Lead
     - name: Krishnan Shankar
       year: 2024
+      role: Workstations Co-Lead, ACH Co-Lead
+    - name: Noah Kabiri
+      year: 2024
+      role: Junior Admin
+    - name: Maribelle Chu
+      year: 2024
+      role: Junior Admin
+    - name: Sami Elsayed
+      year: 2025
+      role: Junior Admin
+    - name: Justin Lee
+      year: 2025
+      role: Junior Admin
+    - name: Pratyush Saxena
+      year: 2025
+      role: Junior Admin
+    - name: Alan Zhu
+      year: 2025
+      role: Junior Admin
+    - name: Diana Lin
+      year: 2025
       role: Junior Admin
 
 contact:
