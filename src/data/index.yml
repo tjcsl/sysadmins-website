@@ -14,10 +14,10 @@ services:
       summary: |
           Director is the website management platform for TJHSST. It gives students the ability to host and manage websites with an easy-to-use interface.
           Originally designed as a senior research project in 2017, Director now is the home for over 2,000 club, academic, and personal sites.
-    - name: Student Webmail
+    - name: Mail
       link: https://webmail.tjhsst.edu
       summary: |
-          The Student Webmail system grants students access to a `@tjhsst.edu` email account. Using Postfix, Dovecot, and Roundcube, we are able to
+          The TJ email system grants students access to a `@tjhsst.edu` email account. Using Postfix, Dovecot, and Roundcube, we are able to
           give TJ students their own portal to the world.
     - name: Library Proxy
       summary: |
@@ -28,7 +28,7 @@ services:
     - name: Cluster
       link: https://jupyterhub.tjhsst.edu
       summary: |
-          The 2 TJHSST High Performance Computing clusters provide CPU & GPU computing power to support students' research & academic endeavours.
+          The 2 High Performance Computing clusters and additional supercomputers provide CPU & GPU computing power to support students' research & academic endeavours.
     - name: Signage
       summary: |
           With 11 TV monitors all around the school, we offer students quick access to schedules, maps, and announcements.
