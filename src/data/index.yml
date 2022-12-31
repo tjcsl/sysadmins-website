@@ -42,24 +42,21 @@ services:
 understudy: false
 
 members:
-    - name: Rushil Umaretiya
-      year: 2023
-      role: Lead Sysadmin, Infrastructure Lead, Academic Services Lead, Director Lead
     - name: Nathaniel Kenschaft
       year: 2023
       role: Lead Sysadmin, Mail Supervisor, Security Lead, Hardware Lead
+    - name: Bradley Cao
+      year: 2023
+      role: Lead Sysadmin, Infrastructure Lead, Academic Services Lead, Director Lead
     - name: Saloni Shah
       year: 2023
       role: Intranet Lead, Documentation Lead
-    - name: Bradley Cao
-      year: 2023
-      role: Workstations Co-Lead, ACH Co-Lead
     - name: Ram Reddy
       year: 2023
       role: Monitoring Lead, ACH Co-Lead, Cluster Co-Lead
     - name: Kedar Prasad
       year: 2024
-      role: Mail Supervisor, Cluster Co-Lead
+      role: Mail Supervisor, Cluster Co-Lead, Workstations Co-Lead
     - name: Krishnan Shankar
       year: 2024
       role: Workstations Co-Lead, ACH Co-Lead
