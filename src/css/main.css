@@ -11,10 +11,12 @@
     transition-property: color border-color background-color;
 }
 
-.link a {
+.link a, 
+.content a {
     @apply text-blue;
 }
 
-.link a:hover {
+.link a:hover, 
+.content a:hover {
     @apply text-gray-700;
 }
