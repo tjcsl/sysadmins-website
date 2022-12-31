@@ -1,15 +1,15 @@
 body: |
     As part of the TJHSST Computer Systems Lab (CSL), the Student Systems Administrators (Sysadmins), a group of volunteer students, maintain various computing resources and services for the school.
-
+    
     The Sysadmin Understudy program is the training program for the full Sysadmins program. We aim to identify and develop talent that can sustain and enhance the long legacy of the Sysadmins program, the Lab and the school.
+    
+    **The Understudy program will begin at the start of the second semester. Check back on this page for updates and join [this Slack channel](https://tjcsl.slack.com) using your TJHSST student email (202X...@tjhsst.edu).**
 
-    ### The Understudy program will begin at the start of the second semester. Check back on this page for updates and join [this Slack channel](https://tjcsl.slack.com) using your TJHSST student email (202X...@tjhsst.edu).
-
+    --- 
     ## Timeline
     This year, the Sysadmin Understudy program is composed of four stages.
 
-    ### Interest Sessions
-    
+    ### 1. Interest Sessions (Early - Mid January)
     There are four interest sessions this year (2023). Please sign up for only one.
 
     * Jan. 6, A block
@@ -17,22 +17,21 @@ body: |
     * Jan. 13, B block
     * Jan. 18, A block
 
-
-    ### Understudy Application
-
-    If you have now decided that you would like to move forward in the consideration process to be one of TJ's Sysadmins, please fill out [this form](https://forms.gle/dg8M8kScsZJdpzy68).
-
+    ### 2. Understudy Application (Late January)
+    To apply to be an Understudy, please fill out [this form](https://tiny.tjhsst.edu/understudy).
     You do not need to attend an interest session in order to apply, but it is highly encouraged.
 
-
-    ### Work Sessions
-
-    Following the shadow sessions, you will get mini-tasks that help you get some hands-on experience with some of what we do.
-
-    **Application & Selection**
-
+    ### 3. Understudy Work Sessions (February - May)
+    If you are selected as an Understudy, you will go through the Understudy training process and receive
+    mini-tasks that help you get some hands-on experience with some of what we do.
+   
+    ### 4. Sysadmin Application (Late May)
     Following work sessions, we will accept applications for the next class of Sysadmins.
+    Sysadmin decisions will be made before the end of the school year.
 
+    **Please check Slack and your TJ email frequently for updates on the Understudy program and specific timeline information and dates.**
+
+    ---
     ## Frequently Asked Questions
 
     ### General
@@ -181,9 +180,6 @@ body: |
     as a Sysadmin or other representative of the Computer Systems Lab.
 
     ## Communications
-
-    We will post many announcements on this page below, so please bookmark this page.
-
     If you have any questions or concerns, please feel
     free to email [understudy@tjhsst.edu](mailto:understudy@tjhsst.edu)
-    or reach out to a Student Systems Administrator.
+    or reach out to a current Sysadmin.
