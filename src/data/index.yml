@@ -42,47 +42,47 @@ services:
 understudy: true
 
 members:
-    - name: Nathaniel Kenschaft
-      year: 2023
-      role: Lead Sysadmin, Mail Supervisor, Security Lead, Hardware Lead
-    - name: Bradley Cao
-      year: 2023
-      role: Lead Sysadmin, Infrastructure Lead, Academic Services Lead, Director Lead
-    - name: Saloni Shah
-      year: 2023
-      role: Intranet Lead, Documentation Lead
-    - name: Ram Reddy
-      year: 2023
-      role: Monitoring Lead, ACH Co-Lead, Cluster Co-Lead
     - name: Kedar Prasad
       year: 2024
-      role: Mail Supervisor, Cluster Co-Lead, Workstations Co-Lead
+      role: Lead Sysadmin, Networking Lead, Mail Supervisor, Cluster Co-Lead
     - name: Krishnan Shankar
       year: 2024
-      role: Workstations Co-Lead, ACH Co-Lead
-    - name: Noah Kabiri
-      year: 2024
-      role: Junior Admin
+      role: Lead Sysadmin, Infrastructure Lead, Web Services Co-Lead, Storage Co-Lead
     - name: Diana Lin
       year: 2024
-      role: Junior Admin
-    - name: Maribelle Chu
+      role: Cybersecurity Co-Lead, Director Co-Lead
+    - name: Noah Kabiri
       year: 2024
-      role: Junior Admin
-    - name: Sami Elsayed
-      year: 2025
-      role: Junior Admin
-    - name: Justin Lee
-      year: 2025
-      role: Junior Admin
-    - name: Pratyush Saxena
-      year: 2025
-      role: Junior Admin
+      role: Monitoring Co-Lead, Signage Co-Lead
     - name: Alan Zhu
       year: 2025
-      role: Junior Admin
+      role: Ion Co-Lead, Cybersecurity Co-Lead, Monitoring Co-Lead
+    - name: Justin Lee
+      year: 2025
+      role: Intranet Co-Lead, Director Co-Lead, Storage Co-Lead
+    - name: Sami Elsayed
+      year: 2025
+      role: Cluster Co-Lead, Workstations Co-Lead, Documentation Co-Lead
     - name: Elijah Guison-Dowdy
       year: 2025
+      role: Workstation Co-Lead, Signage Co-Lead
+    - name: Pratyush Saxena
+      year: 2025
+      role: Documentation Co-Lead
+    - name: Sophia Huang
+      year: 2025
+      role: Junior Admin
+    - name: Rem Turatbekov
+      year: 2025
+      role: Junior Admin
+    - name: Ansh Malhotra
+      year: 2026
+      role: Junior Admin
+    - name: Irmuun Bayart-Od
+      year: 2026
+      role: Junior Admin
+    - name: Olivia Wu
+      year: 2026
       role: Junior Admin
 
 contact:
