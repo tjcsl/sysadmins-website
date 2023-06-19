@@ -44,10 +44,10 @@ understudy: false
 members:
     - name: Kedar Prasad
       year: 2024
-      role: Lead Sysadmin, Networking Lead, Mail Supervisor, Cluster Co-Lead
+      role: Lead Sysadmin, Networking Lead, Mail Lead, Cluster Co-Lead
     - name: Krishnan Shankar
       year: 2024
-      role: Lead Sysadmin, Infrastructure Lead, Web Services Co-Lead, Storage Co-Lead
+      role: Lead Sysadmin, Infrastructure Lead, Web Services Lead, Storage Co-Lead
     - name: Diana Lin
       year: 2024
       role: Cybersecurity Co-Lead, Director Co-Lead
@@ -56,16 +56,16 @@ members:
       role: Monitoring Co-Lead, Signage Co-Lead
     - name: Alan Zhu
       year: 2025
-      role: Ion Co-Lead, Cybersecurity Co-Lead, Monitoring Co-Lead
+      role: Cybersecurity Co-Lead, Monitoring Co-Lead, Intranet Co-Lead
     - name: Justin Lee
       year: 2025
       role: Intranet Co-Lead, Director Co-Lead, Storage Co-Lead
     - name: Sami Elsayed
       year: 2025
-      role: Cluster Co-Lead, Workstations Co-Lead, Documentation Co-Lead
+      role: Documentation Co-Lead, Cluster Co-Lead, Workstations Co-Lead
     - name: Elijah Guison-Dowdy
       year: 2025
-      role: Workstation Co-Lead, Signage Co-Lead
+      role: Workstations Co-Lead, Signage Co-Lead
     - name: Pratyush Saxena
       year: 2025
       role: Documentation Co-Lead
