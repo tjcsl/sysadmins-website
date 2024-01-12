@@ -39,7 +39,7 @@ services:
       summary: |
           The Othello Tournament server provides student a platform to run Othello code against each other during TJHSST Artificial Intelligence classes.
 
-understudy: false
+understudy: true
 
 members:
     - name: Kedar Prasad

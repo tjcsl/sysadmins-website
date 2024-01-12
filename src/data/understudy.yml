@@ -3,22 +3,22 @@ body: |
     
     The Sysadmin Understudy program is the training program for the full Sysadmins program. We aim to identify and develop talent that can sustain and enhance the long legacy of the Sysadmins program, the Lab and the school.
     
-    **The Understudy program will begin at the start of the second semester. Check back on this page for updates and join [this Slack channel](https://tjcsl.slack.com) using your TJHSST student email (202X...@tjhsst.edu).**
+    **For updates, make sure to join [our Mattermost server](https://matterless.tjhsst.edu/signup_user_complete/?id=748i68srajdmmjd9z711ht5nno) using your TJHSST student email (202X...@tjhsst.edu). If you already use Mattermost, just click the link while logged in.**
 
     --- 
     ## Timeline
     This year, the Sysadmin Understudy program is composed of four stages.
 
-    ### 1. Interest Sessions (Early - Mid January)
+    ### 1. Interest Sessions (Mid January)
     There are four interest sessions this year (2023). Please sign up for only one.
 
-    * Jan. 13, A block
-    * Jan. 18, A block
-    * Jan. 18, B block
-    * Jan. 20, B block
+    * Jan. 19, A block
+    * Jan. 19, B block
+    * Jan. 24, A block
+    * Jan. 24, B block
 
     ### 2. Understudy Application (Late January)
-    To apply to be an Understudy, please fill out [this form](https://tiny.tjhsst.edu/understudy).
+    To apply to be an Understudy, please fill out [this form](https://tiny.tjhsst.edu/understudy2024).
     You do not need to attend an interest session in order to apply, but it is highly encouraged.
 
     ### 3. Understudy Work Sessions (February - May)
@@ -75,7 +75,7 @@ body: |
     are making substantive progress on their work. At various occasions, we hold
     scheduled & impromptu lunch, morning, and passing periods meetings where
     your expertise may be called for. In addition, Sysadmins should be
-    reasonably responsive to their Mattermost/Slack/email messages.
+    reasonably responsive to their Mattermost/email messages.
 
     ### Sysadmins
 
@@ -89,7 +89,7 @@ body: |
     - Linux - Installing, running, and configuring a Linux distro (especially a DYI distribution like Arch Linux) teaches you quite a lot.
     - Scripting - If you are doing something repeatably, write a Bash or Python script to automate it. These tiny scripts can teach you a lot over a long period of time.
     - Programming - Being able to write good, clean code is at the heart of what we do. We mostly use Python, but knowing one language, like Java, C, or C++, makes learning others much easier.
-    - Git - We use Git _a lot_, so it is nice to get comfortable working with it regularly, with an especial focus on effective branch rebasing. One good way to learn is to start using it to store your code from school classes.
+    - Git - We use Git _a lot_, so it is nice to get comfortable working with it regularly, with a special focus on effective branch rebasing. One good way to learn is to start using it to store your code from school classes.
     - Computer Basics - It is very useful to know the basics of computers, like what RAM, CPUs, operating systems, Windows, Linux, and Mac OS is.
     - Typing - We type a lot, so being able to type quickly is just nice.
 
