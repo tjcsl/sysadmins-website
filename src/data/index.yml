@@ -19,9 +19,6 @@ services:
       summary: |
           The TJ email system grants students access to a `@tjhsst.edu` email account. Using Postfix, Dovecot, and Roundcube, we are able to
           give TJ students their own portal to the world.
-    - name: Library Proxy
-      summary: |
-          The Library Proxy authorizes TJ community members to access academic resources, primarily library databases, from off-campus.
     - name: Workstations
       summary: |
           The over 60 Linux workstations within CSL classrooms offer students the capability to work within a Linux environment.
