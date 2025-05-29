@@ -39,42 +39,30 @@ services:
 understudy: false
 
 members:
-    - name: Alan Zhu
-      year: 2025
-      role: Lead Sysadmin, Intranet Co-Lead, Web & Academic Services Lead, Cybersecurity & Monitoring Lead
-    - name: Sami Elsayed
-      year: 2025
-      role: Lead Sysadmin, Networking Lead, Cluster Co-Lead, Mail Co-Lead
-    - name: Justin Lee
-      year: 2025
-      role: Infrastructure Lead, Intranet Co-Lead, Storage Lead, Director Co-Lead
-    - name: Sophia Huang
-      year: 2025
-      role: Printing Co-Lead, Signage Co-Lead
+    - name: Aarush Deshpande
+      year: 2027
+      role: Lead Sysadmin, Web & Academic Services Lead, Director Co-Lead, Infrastructure Lead
+    - name: Aarush Chaurasia
+      year: 2027
+      role: Lead Sysadmin, Intranet Co-Lead, Director Co-Lead, Cybersecurity Lead
+    - name: Henry Stievater
+      year: 2026
+      role: Lead Sysadmin, Mail Lead, Printing Lead
     - name: Irmuun Bayart-Od
       year: 2026
       role: Workstations Co-Lead, Mail Co-Lead, Cluster Co-Lead
-    - name: Henry Stievater
-      year: 2026
-      role: Junior Admin
     - name: Devin Park
       year: 2026
-      role: Junior Admin
+      role: Workstations Co-Lead, Networking Lead, Cluster Co-Lead
     - name: Leo Lim
       year: 2026
-      role: Junior Admin
-    - name: Aarush Deshpande
-      year: 2027
-      role: Junior Admin
-    - name: Aarush Chaurasia
-      year: 2027
-      role: Junior Admin
+      role: Documentation Manager
     - name: Catelyn Dao
       year: 2027
-      role: Junior Admin
+      role: Storage Co-Lead
     - name: Shreyas Jain
       year: 2027
-      role: Junior Admin
+      role: Intranet Co-Lead, Storage Co-Lead
 
 contact:
     - title: General Correspondence
