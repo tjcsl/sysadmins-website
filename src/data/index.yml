@@ -44,22 +44,22 @@ members:
       role: Lead Sysadmin, Web & Academic Services Lead, Director Co-Lead, Infrastructure Lead
     - name: Aarush Chaurasia
       year: 2027
-      role: Lead Sysadmin, Intranet Co-Lead, Director Co-Lead, Cybersecurity Lead
+      role: Lead Sysadmin, Intranet Co-Lead, Director Co-Lead, Cybersecurity Co-Lead
     - name: Henry Stievater
       year: 2026
-      role: Lead Sysadmin, Mail Lead, Printing Lead
+      role: Lead Sysadmin, Networking Lead, Mail Lead, Printing Lead
     - name: Irmuun Bayart-Od
       year: 2026
       role: Workstations Co-Lead, Mail Co-Lead, Cluster Co-Lead
     - name: Devin Park
       year: 2026
-      role: Workstations Co-Lead, Networking Lead, Cluster Co-Lead
+      role: Cybersecurity Co-Lead, Cluster Co-Lead
     - name: Leo Lim
       year: 2026
       role: Documentation Manager
     - name: Catelyn Dao
       year: 2027
-      role: Storage Co-Lead
+      role: Storage Co-Lead, Workstations Co-Lead
     - name: Shreyas Jain
       year: 2027
       role: Intranet Co-Lead, Storage Co-Lead
