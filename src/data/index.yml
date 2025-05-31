@@ -63,6 +63,24 @@ members:
     - name: Shreyas Jain
       year: 2027
       role: Intranet Co-Lead, Storage Co-Lead
+    - name: Sroshsafa Shirzay
+      year: 2027
+      role: Junior Sysadmin
+    - name: Mikaeel Taher
+      year: 2027
+      role: Junior Sysadmin
+    - name: Samuel Chow
+      year: 2028
+      role: Junior Sysadmin
+    - name: Bryce Conrad
+      year: 2028
+      role: Junior Sysadmin
+    - name: Tiger Deng
+      year: 2028
+      role: Junior Sysadmin
+    - name: Elijah Feldman
+      year: 2028
+      role: Junior Sysadmin
 
 contact:
     - title: General Correspondence
