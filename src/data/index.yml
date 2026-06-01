@@ -41,46 +41,46 @@ understudy: false
 members:
     - name: Aarush Deshpande
       year: 2027
-      role: Lead Sysadmin, Web & Academic Services Lead, Director Co-Lead, Infrastructure Lead
+      role: Lead Sysadmin, Web & Academic Services Co-Lead, Infrastructure Lead
     - name: Aarush Chaurasia
       year: 2027
-      role: Lead Sysadmin, Intranet Co-Lead, Director Co-Lead, Cybersecurity Co-Lead
-    - name: Henry Stievater
-      year: 2026
-      role: Lead Sysadmin, Networking Lead, Mail Lead, Printing Lead
-    - name: Irmuun Bayart-Od
-      year: 2026
-      role: Workstations Co-Lead, Mail Co-Lead, Cluster Co-Lead
-    - name: Devin Park
-      year: 2026
-      role: Cybersecurity Co-Lead, Cluster Co-Lead
-    - name: Leo Lim
-      year: 2026
-      role: Documentation Manager
+      role: Lead Sysadmin, Intranet Co-Lead, Cybersecurity Co-Lead
     - name: Catelyn Dao
       year: 2027
-      role: Storage Co-Lead, Workstations Co-Lead
+      role: Storage Co-Lead, Documentation Manager
     - name: Shreyas Jain
       year: 2027
       role: Intranet Co-Lead, Storage Co-Lead
-    - name: Sroshsafa Shirzay
-      year: 2027
-      role: Junior Sysadmin
     - name: Mikaeel Taher
       year: 2027
-      role: Junior Sysadmin
+      role: Cluster Co-Lead
     - name: Samuel Chow
       year: 2028
-      role: Junior Sysadmin
+      role: Web & Academic Services Co-Lead, Storage Co-Lead
     - name: Bryce Conrad
       year: 2028
-      role: Junior Sysadmin
+      role: Cybersecurity Co-Lead, Mail Co-Lead
     - name: Tiger Deng
       year: 2028
-      role: Junior Sysadmin
+      role: Director Lead, Workstations Lead
     - name: Elijah Feldman
       year: 2028
-      role: Junior Sysadmin
+      role: Cluster Co-Lead, Mail Co-Lead
+    - name: Ethan You
+      year: 2028
+      role: Junior Admin
+    - name: Robert Zhao
+      year: 2028
+      role: Junior Admin
+    - name: Finnegan Adair
+      year: 2029
+      role: Junior Admin
+    - name: Ben Ahn
+      year: 2029
+      role: Junior Admin
+    - name: Tony Hsu
+      year: 2029
+      role: Junior Admin
 
 contact:
     - title: General Correspondence
