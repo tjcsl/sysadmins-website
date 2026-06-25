@@ -99,5 +99,9 @@ contact:
       email: signage@tjhsst.edu
     - title: Othello
       email: othello@tjhsst.edu
+    - title: Workstations
+      email: workstations@tjhsst.edu
+    - title: Cluster
+      email: cluster@tjhsst.edu
     - title: Understudy
       email: understudy@tjhsst.edu
