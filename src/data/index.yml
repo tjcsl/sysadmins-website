@@ -84,24 +84,24 @@ members:
 
 contact:
     - title: General Correspondence
-      email: sysadmins@tjhsst.edu
+      email: sysadmins[at]tjhsst.edu
     - title: Accounts (Creation, Deletion, Password Issues)
-      email: accounts@tjhsst.edu
+      email: accounts[at]tjhsst.edu
     - title: Intranet
-      email: intranet@tjhsst.edu
+      email: intranet[at]tjhsst.edu
     - title: Director
-      email: director@tjhsst.edu
+      email: director[at]tjhsst.edu
     - title: Security
-      email: security@tjhsst.edu
+      email: security[at]tjhsst.edu
     - title: Mail
-      email: mail@tjhsst.edu
+      email: mail[at]tjhsst.edu
     - title: Signage
-      email: signage@tjhsst.edu
+      email: signage[at]tjhsst.edu
     - title: Othello
-      email: othello@tjhsst.edu
+      email: othello[at]tjhsst.edu
     - title: Workstations
-      email: workstations@tjhsst.edu
+      email: workstations[at]tjhsst.edu
     - title: Cluster
-      email: cluster@tjhsst.edu
+      email: cluster[at]tjhsst.edu
     - title: Understudy
-      email: understudy@tjhsst.edu
+      email: understudy[at]tjhsst.edu
